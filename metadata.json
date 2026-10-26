@@ -1,0 +1,6 @@
+{
+  "name": "TakaTrack - Offline Personal Finance Tracker",
+  "description": "Premium offline personal finance tracking app for Android with ৳ currency, income/expense tracking, lent/borrowed debt ledger, SQLite/local storage, monthly reports, backup/restore, CSV export, and complete Flutter & Dart project source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
